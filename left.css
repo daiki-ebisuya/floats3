@@ -132,7 +132,7 @@ a {
 .article-picture {
     /* display: block;  */
     display: block;
-    float: right;
+    float: left;
     size: 100px;
     margin: 10px;
  
