@@ -132,14 +132,15 @@ a {
 .article-picture {
     /* display: block;  */
     display: block;
-    float: left;
+    float: right;
     size: 100px;
     margin: 10px;
  
 }
 
 img {
-
+    
+    
     max-width: 300px;
     max-height: 300px;
     
