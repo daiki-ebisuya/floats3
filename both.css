@@ -160,17 +160,16 @@ img {
 .textbox {
     /* clear: right; */
     clear: both;
-    margin: 16px;
-    padding: 10px 0px;
+    padding: 10px ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.5;
 
-    height: 400px;
+    height: 300px;
 }
 article {
-    margin: 10px;
+    
     border: solid 1px #df1818;
-    min-height: 400px;
+    min-height: 300px;
    
 }
 article > div {
